@@ -38,3 +38,5 @@ one/innovation/digital/strings/Strings.java
  one.innovation.digital.strings.Strings
 one/innovation/digital/strings/BuilderDeString.java
  one.innovation.digital.strings.BuilderDeString
+one/innovation/digital/conditionals/IF.java
+ one.innovation.digital.conditionals.IF
