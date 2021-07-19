@@ -104,7 +104,33 @@ one/innovation/digital/oo/heranca/exercicio/Funcionario.java
  one.innovation.digital.oo.heranca.exercicio.Funcionario
 one/innovation/digital/oo/heranca/exercicio/Supervisor.java
  one.innovation.digital.oo.heranca.exercicio.Supervisor
+one/innovation/digital/oo/caracteristicas/exemplosuper/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemplosuper.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Veiculo
+one/innovation/digital/oo/caracteristicas/exemplosuper/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplosuper.Veiculo
 one/innovation/digital/oo/heranca/exercicio/Atendente.java
  one.innovation.digital.oo.heranca.exercicio.Atendente
 one/innovation/digital/oo/heranca/exercicio/Exemplo.java
  one.innovation.digital.oo.heranca.exercicio.Exemplo
+one/innovation/digital/oo/caracteristicas/exemplothis/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplothis.Veiculo
+one/innovation/digital/oo/caracteristicas/exemplothis/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemplothis.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Exemplo01.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Exemplo01
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Veiculo
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Exemplo01.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Exemplo01
+one/innovation/digital/oo/caracteristicas/exemplohashcode/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemplohashcode.Carro
+one/innovation/digital/oo/caracteristicas/exemplohashcode/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplohashcode.Veiculo
+one/innovation/digital/oo/caracteristicas/exemplohashcode/Exemplo01.java
+ one.innovation.digital.oo.caracteristicas.exemplohashcode.Exemplo01
