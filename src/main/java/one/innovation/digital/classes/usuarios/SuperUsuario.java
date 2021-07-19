@@ -11,6 +11,8 @@ public class SuperUsuario {
 
     }
 
+
+
     public String getLogin() {
         return login;
     }
