@@ -78,3 +78,7 @@ one/innovation/digital/oo/conversaotemperatura/ConversaoTemperatura.java
  one.innovation.digital.oo.conversaotemperatura.ConversaoTemperatura
 one/innovation/digital/oo/conversaotemperatura/InstanciandoTemperatura.java
  one.innovation.digital.oo.conversaotemperatura.InstanciandoTemperatura
+one/innovation/digital/oo/encapsulamento/Pessoa.java
+ one.innovation.digital.oo.encapsulamento.Pessoa
+one/innovation/digital/oo/encapsulamento/InstanciandoPessoa.java
+ one.innovation.digital.oo.encapsulamento.InstanciandoPessoa
