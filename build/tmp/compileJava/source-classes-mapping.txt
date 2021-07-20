@@ -1,136 +1,142 @@
-one/innovation/digital/types/typing/StrongTyping.java
- one.innovation.digital.types.typing.StrongTyping
+one/innovation/digital/oo/exemplo1/Pessoa.java
+ one.innovation.digital.oo.exemplo1.Pessoa
 one/innovation/digital/conditionals/IF.java
  one.innovation.digital.conditionals.IF
-one/innovation/digital/cursoemvideo/PrimeiroPrograma.java
- one.innovation.digital.cursoemvideo.PrimeiroPrograma
 one/innovation/digital/classes/pessoas/ProgramaDoUsuario.java
  one.innovation.digital.classes.pessoas.ProgramaDoUsuario
-one/innovation/digital/types/primitives/Primitives.java
- one.innovation.digital.types.primitives.Primitives
-one/innovation/digital/operators/Equality.java
- one.innovation.digital.operators.Equality
+one/innovation/digital/oo/heranca/exercicio/Funcionario.java
+ one.innovation.digital.oo.heranca.exercicio.Funcionario
+one/innovation/digital/oo/heranca/exemplo01/Exemplo.java
+ one.innovation.digital.oo.heranca.exemplo01.Exemplo
+one/innovation/digital/oo/heranca/exemplo02/Carro.java
+ one.innovation.digital.oo.heranca.exemplo02.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Exemplo01.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Exemplo01
+one/innovation/digital/oo/conversaotemperatura/InstanciandoTemperatura.java
+ one.innovation.digital.oo.conversaotemperatura.InstanciandoTemperatura
+one/innovation/digital/oo/heranca/exemplo01/Veiculo.java
+ one.innovation.digital.oo.heranca.exemplo01.Veiculo
+one/innovation/digital/oo/heranca/exercicio/Exemplo.java
+ one.innovation.digital.oo.heranca.exercicio.Exemplo
 one/innovation/digital/operators/Logic.java
  one.innovation.digital.operators.Logic
 one/innovation/digital/operators/Increment.java
  one.innovation.digital.operators.Increment
+one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Veiculo
+one/innovation/digital/oo/exemplo2/Carro.java
+ one.innovation.digital.oo.exemplo2.Carro
+one/innovation/digital/oo/heranca/exemplo02/Motocicleta.java
+ one.innovation.digital.oo.heranca.exemplo02.Motocicleta
+one/innovation/digital/oo/exemplo3/Pessoa.java
+ one.innovation.digital.oo.exemplo3.Pessoa
+one/innovation/digital/abstracts/Program.java
+ one.innovation.digital.abstracts.Program
+one/innovation/digital/javaDate/Exemplo04.java
+ one.innovation.digital.javaDate.Exemplo04
+one/innovation/digital/strings/Strings.java
+ one.innovation.digital.strings.Strings
+one/innovation/digital/types/wrappers/Wrappers.java
+ one.innovation.digital.types.wrappers.Wrappers
+one/innovation/digital/oo/exemplo3/InstaciandoObjetoPessoa.java
+ one.innovation.digital.oo.exemplo3.InstaciandoObjetoPessoa
+one/innovation/digital/oo/exerciciocarro/Carro.java
+ one.innovation.digital.oo.exerciciocarro.Carro
+one/innovation/digital/oo/heranca/exemplo01/Carro.java
+ one.innovation.digital.oo.heranca.exemplo01.Carro
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Carro
+one/innovation/digital/oo/caracteristicas/exemplosuper/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplosuper.Veiculo
+one/innovation/digital/oo/encapsulamento/InstanciandoPessoa.java
+ one.innovation.digital.oo.encapsulamento.InstanciandoPessoa
+one/innovation/digital/oo/heranca/exercicio/Atendente.java
+ one.innovation.digital.oo.heranca.exercicio.Atendente
+one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Exemplo01.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Exemplo01
+one/innovation/digital/types/typing/StaticTyping.java
+ one.innovation.digital.types.typing.StaticTyping
+one/innovation/digital/loops/While.java
+ one.innovation.digital.loops.While
+one/innovation/digital/statics/Program.java
+ one.innovation.digital.statics.Program
+one/innovation/digital/javaDate/Exemplo03.java
+ one.innovation.digital.javaDate.Exemplo03
+one/innovation/digital/oo/encapsulamento/Pessoa.java
+ one.innovation.digital.oo.encapsulamento.Pessoa
+one/innovation/digital/loops/For.java
+ one.innovation.digital.loops.For
+one/innovation/digital/classes/pessoas/PhysicPerson.java
+ one.innovation.digital.classes.pessoas.PhysicPerson
+one/innovation/digital/abstracts/Square.java
+ one.innovation.digital.abstracts.Square
+one/innovation/digital/oo/caracteristicas/exemplothis/Carro.java
+ one.innovation.digital.oo.caracteristicas.exemplothis.Carro
+one/innovation/digital/javaDate/Exemplo02.java
+ one.innovation.digital.javaDate.Exemplo02
+one/innovation/digital/oo/caracteristicas/exemplohashcode/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplohashcode.Veiculo
+one/innovation/digital/types/typing/StrongTyping.java
+ one.innovation.digital.types.typing.StrongTyping
+one/innovation/digital/oo/exemplo1/ExemploInstanciaObjeto.java
+ one.innovation.digital.oo.exemplo1.ExemploInstanciaObjeto
+one/innovation/digital/types/primitives/Primitives.java
+ one.innovation.digital.types.primitives.Primitives
+one/innovation/digital/oo/heranca/exemplo02/Veiculo.java
+ one.innovation.digital.oo.heranca.exemplo02.Veiculo
+one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Veiculo
+one/innovation/digital/operators/Equality.java
+ one.innovation.digital.operators.Equality
+one/innovation/digital/oo/heranca/exemplo02/Exemplo02.java
+ one.innovation.digital.oo.heranca.exemplo02.Exemplo02
+one/innovation/digital/oo/exerciciocarro/InstanciaCarro.java
+ one.innovation.digital.oo.exerciciocarro.InstanciaCarro
 one/innovation/digital/operators/Math.java
  one.innovation.digital.operators.Math
 one/innovation/digital/types/typing/TypeInference.java
  one.innovation.digital.types.typing.TypeInference
 one/innovation/digital/classes/usuarios/ProgramaDoSuperUsuario.java
  one.innovation.digital.classes.usuarios.ProgramaDoSuperUsuario
-one/innovation/digital/oo/exemplo3/InstaciandoObjetoPessoa.java
- one.innovation.digital.oo.exemplo3.InstaciandoObjetoPessoa
-one/innovation/digital/abstracts/GeometricForm.java
- one.innovation.digital.abstracts.GeometricForm
+one/innovation/digital/javaDate/Exemplo01.java
+ one.innovation.digital.javaDate.Exemplo01
 one/innovation/digital/enums/Status.java
  one.innovation.digital.enums.Status
-one/innovation/digital/types/nonprimitives/NonPrimitives.java
- one.innovation.digital.types.nonprimitives.NonPrimitives
-one/innovation/digital/abstracts/Program.java
- one.innovation.digital.abstracts.Program
-one/innovation/digital/strings/Strings.java
- one.innovation.digital.strings.Strings
-one/innovation/digital/types/wrappers/Wrappers.java
- one.innovation.digital.types.wrappers.Wrappers
-one/innovation/digital/classes/pessoas/Pessoa.java
- one.innovation.digital.classes.pessoas.Pessoa
+one/innovation/digital/oo/caracteristicas/exemplothis/Veiculo.java
+ one.innovation.digital.oo.caracteristicas.exemplothis.Veiculo
+one/innovation/digital/oo/conversaotemperatura/ConversaoTemperatura.java
+ one.innovation.digital.oo.conversaotemperatura.ConversaoTemperatura
 one/innovation/digital/operators/Relationals.java
  one.innovation.digital.operators.Relationals
-one/innovation/digital/statics/Dog.java
- one.innovation.digital.statics.Dog
+one/innovation/digital/oo/heranca/exemplo01/Motocicleta.java
+ one.innovation.digital.oo.heranca.exemplo01.Motocicleta
 one/innovation/digital/strings/BuilderDeString.java
  one.innovation.digital.strings.BuilderDeString
 one/innovation/digital/types/nonprimitives/Unboxing.java
  one.innovation.digital.types.nonprimitives.Unboxing
-one/innovation/digital/types/typing/StaticTyping.java
- one.innovation.digital.types.typing.StaticTyping
 one/innovation/digital/classes/usuarios/SuperUsuario.java
  one.innovation.digital.classes.usuarios.SuperUsuario
-one/innovation/digital/cursoemvideo/HoraDoSistema.java
- one.innovation.digital.cursoemvideo.HoraDoSistema
-one/innovation/digital/loops/While.java
- one.innovation.digital.loops.While
-one/innovation/digital/statics/Program.java
- one.innovation.digital.statics.Program
-one/innovation/digital/loops/For.java
- one.innovation.digital.loops.For
-one/innovation/digital/oo/exemplo3/Pessoa.java
- one.innovation.digital.oo.exemplo3.Pessoa
-one/innovation/digital/classes/pessoas/PhysicPerson.java
- one.innovation.digital.classes.pessoas.PhysicPerson
-one/innovation/digital/abstracts/Square.java
- one.innovation.digital.abstracts.Square
-one/innovation/digital/oo/exemplo2/Carro.java
- one.innovation.digital.oo.exemplo2.Carro
-one/innovation/digital/oo/exemplo1/Pessoa.java
- one.innovation.digital.oo.exemplo1.Pessoa
-one/innovation/digital/oo/exemplo2/InstanciandoObjetoCarro.java
- one.innovation.digital.oo.exemplo2.InstanciandoObjetoCarro
-one/innovation/digital/oo/exemplo1/ExemploInstanciaObjeto.java
- one.innovation.digital.oo.exemplo1.ExemploInstanciaObjeto
-one/innovation/digital/oo/exerciciocarro/Carro.java
- one.innovation.digital.oo.exerciciocarro.Carro
-one/innovation/digital/oo/exerciciocarro/InstanciaCarro.java
- one.innovation.digital.oo.exerciciocarro.InstanciaCarro
-one/innovation/digital/oo/conversaotemperatura/ConversaoTemperatura.java
- one.innovation.digital.oo.conversaotemperatura.ConversaoTemperatura
-one/innovation/digital/oo/conversaotemperatura/InstanciandoTemperatura.java
- one.innovation.digital.oo.conversaotemperatura.InstanciandoTemperatura
-one/innovation/digital/oo/encapsulamento/Pessoa.java
- one.innovation.digital.oo.encapsulamento.Pessoa
-one/innovation/digital/oo/encapsulamento/InstanciandoPessoa.java
- one.innovation.digital.oo.encapsulamento.InstanciandoPessoa
-one/innovation/digital/oo/heranca/exemplo01/Veiculo.java
- one.innovation.digital.oo.heranca.exemplo01.Veiculo
-one/innovation/digital/oo/heranca/exemplo01/Motocicleta.java
- one.innovation.digital.oo.heranca.exemplo01.Motocicleta
-one/innovation/digital/oo/heranca/exemplo01/Carro.java
- one.innovation.digital.oo.heranca.exemplo01.Carro
-one/innovation/digital/oo/heranca/exemplo01/Exemplo.java
- one.innovation.digital.oo.heranca.exemplo01.Exemplo
-one/innovation/digital/oo/heranca/exemplo02/Veiculo.java
- one.innovation.digital.oo.heranca.exemplo02.Veiculo
-one/innovation/digital/oo/heranca/exemplo02/Carro.java
- one.innovation.digital.oo.heranca.exemplo02.Carro
-one/innovation/digital/oo/heranca/exemplo02/Exemplo02.java
- one.innovation.digital.oo.heranca.exemplo02.Exemplo02
-one/innovation/digital/oo/heranca/exemplo02/Motocicleta.java
- one.innovation.digital.oo.heranca.exemplo02.Motocicleta
-one/innovation/digital/oo/heranca/exercicio/Gerente.java
- one.innovation.digital.oo.heranca.exercicio.Gerente
-one/innovation/digital/oo/heranca/exercicio/Funcionario.java
- one.innovation.digital.oo.heranca.exercicio.Funcionario
-one/innovation/digital/oo/heranca/exercicio/Supervisor.java
- one.innovation.digital.oo.heranca.exercicio.Supervisor
 one/innovation/digital/oo/caracteristicas/exemplosuper/Carro.java
  one.innovation.digital.oo.caracteristicas.exemplosuper.Carro
 one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Carro.java
  one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Carro
-one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Veiculo.java
- one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Veiculo
-one/innovation/digital/oo/caracteristicas/exemplosuper/Veiculo.java
- one.innovation.digital.oo.caracteristicas.exemplosuper.Veiculo
-one/innovation/digital/oo/heranca/exercicio/Atendente.java
- one.innovation.digital.oo.heranca.exercicio.Atendente
-one/innovation/digital/oo/heranca/exercicio/Exemplo.java
- one.innovation.digital.oo.heranca.exercicio.Exemplo
-one/innovation/digital/oo/caracteristicas/exemplothis/Veiculo.java
- one.innovation.digital.oo.caracteristicas.exemplothis.Veiculo
-one/innovation/digital/oo/caracteristicas/exemplothis/Carro.java
- one.innovation.digital.oo.caracteristicas.exemplothis.Carro
-one/innovation/digital/oo/caracteristicas/exemploequals/semSobrescreverEquals/Exemplo01.java
- one.innovation.digital.oo.caracteristicas.exemploequals.semSobrescreverEquals.Exemplo01
-one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Veiculo.java
- one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Veiculo
-one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Carro.java
- one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Carro
-one/innovation/digital/oo/caracteristicas/exemploequals/sobrescevendoEquals/Exemplo01.java
- one.innovation.digital.oo.caracteristicas.exemploequals.sobrescevendoEquals.Exemplo01
 one/innovation/digital/oo/caracteristicas/exemplohashcode/Carro.java
  one.innovation.digital.oo.caracteristicas.exemplohashcode.Carro
-one/innovation/digital/oo/caracteristicas/exemplohashcode/Veiculo.java
- one.innovation.digital.oo.caracteristicas.exemplohashcode.Veiculo
+one/innovation/digital/oo/heranca/exercicio/Gerente.java
+ one.innovation.digital.oo.heranca.exercicio.Gerente
+one/innovation/digital/abstracts/GeometricForm.java
+ one.innovation.digital.abstracts.GeometricForm
+one/innovation/digital/oo/exemplo2/InstanciandoObjetoCarro.java
+ one.innovation.digital.oo.exemplo2.InstanciandoObjetoCarro
 one/innovation/digital/oo/caracteristicas/exemplohashcode/Exemplo01.java
  one.innovation.digital.oo.caracteristicas.exemplohashcode.Exemplo01
+one/innovation/digital/oo/heranca/exercicio/Supervisor.java
+ one.innovation.digital.oo.heranca.exercicio.Supervisor
+one/innovation/digital/statics/Dog.java
+ one.innovation.digital.statics.Dog
+one/innovation/digital/types/nonprimitives/NonPrimitives.java
+ one.innovation.digital.types.nonprimitives.NonPrimitives
+one/innovation/digital/classes/pessoas/Pessoa.java
+ one.innovation.digital.classes.pessoas.Pessoa
+one/innovation/digital/javaDate/Exercicio.java
+ one.innovation.digital.javaDate.Exercicio
