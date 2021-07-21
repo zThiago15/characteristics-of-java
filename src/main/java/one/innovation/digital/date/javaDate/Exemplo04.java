@@ -1,4 +1,4 @@
-package one.innovation.digital.javaDate;
+package one.innovation.digital.date.javaDate;
 
 import java.time.Instant;
 import java.util.Date;
